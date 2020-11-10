@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "8.8",
+        "minkadimka/amocrm": "0.3.31"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/minkadimka/amocrm-php.git"
+        }
+    ]
+}
